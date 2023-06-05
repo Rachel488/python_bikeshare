@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 """
-city_csv_path = 'C:\\Users\\Rachel\\Desktop\\python\\Udacity_Scripts\\bike_share_project\\'
+city_csv_path = <your filepath here>
 
 CITY_DATA = { 'chicago': city_csv_path + 'chicago.csv',
               'new york city': city_csv_path + 'new_york_city.csv',
